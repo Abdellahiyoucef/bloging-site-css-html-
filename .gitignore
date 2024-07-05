@@ -1,0 +1,4 @@
+#ignored files 
+#this is a test of ignoring all file with html extentions and all folder named css
+#*.html
+#css
